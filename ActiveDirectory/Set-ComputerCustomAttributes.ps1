@@ -182,3 +182,4 @@ If ($SerialNumberValue -eq $SerialNumber){
 
 # ENDING LOG
 Write-Log "---------------------ENDING CUSTOM ATTRIBUTE SCRIPT---------------------"
+
